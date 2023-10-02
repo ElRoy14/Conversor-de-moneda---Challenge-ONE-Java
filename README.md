@@ -1,5 +1,6 @@
-
-<img src= "https://m.media-amazon.com/images/I/61TuGfMmNOL.png"/>
+<p width="50%">
+   <img src= "https://m.media-amazon.com/images/I/61TuGfMmNOL.png"/>
+</p>
 
 <h1 align="center"> Conversor-de-moneda---Challenge-ONE-Java </h1>
 
@@ -27,4 +28,3 @@ Challenge conversor de moneda. Consiste en desarrollar una aplicacion que permit
 ## Autores
 
 | [<img src="https://avatars.githubusercontent.com/u/92837162?v=4" width=115><br><sub>Roylin E. Rodriguez</sub>](https://github.com/ElRoy14)
-| :---: | :---: | :---: |
